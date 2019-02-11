@@ -12,6 +12,6 @@ title: probando jekyll?
 <p><code>en el sitio correcto</code></p>
 </blockquote>
 <ul>
-<li>he triunfado</li>
+<li>estoy en el camino</li>
 </ul>
 
